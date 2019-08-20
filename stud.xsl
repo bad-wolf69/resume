@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1><center>Student Details</center></h1>
-<table border="3">
+<table border="10" cellspacing="2" cellpadding="20" align="center">
  
 
 <tr bgcolor="ffff19">
