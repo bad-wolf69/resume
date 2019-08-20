@@ -7,16 +7,19 @@
 <head>
 <title>Student Details - Transformation</title>
 </head>
-<body>
+<body font-face="helvetica" size="45">
+<h1><center>Student Details</center></h1>
 <table border="3">
- <h1><center>Student Details</center></h1>
-<tr bgcolor="#9acd32">
+ 
+
+<tr bgcolor="ffff19">
 <th>Name</th><th>Department</th><th>Register No</th>
 </tr>
 <xsl:for-each select="/studInfo/stud">
 <tr>
+
 <td><xsl:value-of select="name"/></td>
- </br>
+
 <td><xsl:value-of select="dept"/></td>
 <td><xsl:value-of select="rno"/></td>
 </tr>
