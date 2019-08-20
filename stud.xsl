@@ -9,7 +9,7 @@
 </head>
 <body>
 <table border="3">
- <h1><center>Student Details</center></h1>>
+ <h1><center>Student Details</center></h1>
 <tr bgcolor="#9acd32">
 <th>Name</th><th>Department</th><th>Register No</th>
 </tr>
