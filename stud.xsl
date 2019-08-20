@@ -9,7 +9,7 @@
 <body>
 <table border="1">
 <caption>Student Details</caption>
-<tr>
+<tr bgcolor='#9abcd1'>
 <th>Name</th><th>Department</th><th>Register No</th>
 </tr>
 <xsl:for-each select="/studInfo/stud">
