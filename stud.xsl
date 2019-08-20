@@ -7,7 +7,7 @@
 <head>
 <title>Student Details - Transformation</title>
 </head>
-<body font-face="helvetica" size="45">
+<body>
 <h1><center>Student Details</center></h1>
 <table border="3">
  
